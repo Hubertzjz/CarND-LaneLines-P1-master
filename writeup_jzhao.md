@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 The created pipeline consisted of 4 steps as follows (with example below):
 
 <p align="center">
-	<img src="./test_images/whiteCarLaneSwitch.jpg" alt="Sample" width="250" height="140">
+	<img src="./writeup_images/whiteCarLaneSwitch.jpg" alt="Sample" width="250" height="140">
 	</p>
 </p>
 
